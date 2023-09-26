@@ -44,7 +44,7 @@ function App() {
           dark:bg-main-dark-bg navbar w-full">
             <Navbar />
           </div>
-        </div>
+        
         <div>
           <Routes>
             {/* Dashboard */}
@@ -74,6 +74,7 @@ function App() {
 
 
           </Routes>
+        </div>
         </div>
     </div>
     </BrowserRouter>
