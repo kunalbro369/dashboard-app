@@ -1,39 +1,108 @@
-Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More
-Shoppy
+# React-Admin-DashBoard
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![ADDA](https://user-images.githubusercontent.com/78680563/228942935-6b80d2a7-d4c9-4930-8c3d-07f03d0c3d26.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+React Admin Dashboard is a stunning web application that has a beautiful user interface and has been built using advanced JavaScript concepts, React, and Tailwind CSS. This dashboard provides a comprehensive and intuitive user experience, allowing users to easily manage and track their data. React is a powerful JavaScript library that enables developers to build efficient and dynamic user interfaces, while Tailwind CSS provides a collection of pre-defined classes that make it easy to style and customize UI elements. The combination of these two technologies, along with advanced JavaScript concepts, makes for a highly responsive and engaging user experience. With React Admin Dashboard, users can stay on top of their data with ease and enjoy a visually pleasing interface.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+This Project is hosted in Netlify : [React-Admin-DashBoard by Kunal]()
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+# Getting Started
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Learn More
+Prerequisites
+Before you start, make sure you have the following software installed on your computer:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Node.js
+npm (Node Package Manager)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## 🛠 Skills
+Javascript, HTML, CSS, React.JS, and TailwindCSS.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## How to use this Repository?
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. Clone the repository to your local machine
 
-### Making a Progressive Web App
+```bash
+  git clone https://github.com/kunalbro369/dashboard-app.git 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+```
+2. Navigate to the project directory
 
-### Advanced Configuration
+```bash
+  cd dashboard-app
+```
+3. Install the necessary dependencies
+```bash
+  npm install
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+4. Start the development server
+```bash
+  npm start
+```
 
-### Deployment
+The website should now be up and running on http://localhost:3000.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## Built With:
+
+- React - A JavaScript library for building user interfaces
+- Tailwind - A Modern CSS Framework.
+- HTML - Standard markup language for creating web pages
+- CSS - Style sheet language used for describing the look and formatting of a document written in HTML
+- React Context API -  allows us to pass data through our component trees, giving our components the ability to communicate and share data at different levels.
+
+## Features
+
+- Light and Dark Mode.
+- Theme Color Options.
+- Responsive.
+- Beautiful UI.
+- Beautiful Graphs created using Syncfusion
+
+
+## Tech Stack
+
+**Client:** React, TailwindCSS, Syncfusion
+
+**Server:** Netlify
+
+
+## 🚀 About Me
+Front - End Web Development Enthusiast
+Specializations:
+- UI/UX Design.
+- Front-End Web Development
+
+
+## Other Common Github Profile Sections
+
+👯‍♀️ I'm looking to collaborate on Front-End Web Dev Projects on React.JS and looking 
+for placement in good company.
+
+
+
+
+## Feedback
+
+If you have any feedback, please reach out to me at kkulkarni369@gmail.com
+
+
+## Authors
+
+- This project is made using tutorial of [Javascript Mastery](https://www.youtube.com/watch?v=_oO4Qi5aVZs&t=57s)
+
+- ([kunalbro369][https://github.com/kunalbro369)]
+
+
+
+
+## Acknowledgements
+
+ - [Rapid API](https://youtube-v31.p.rapidapi.com)
+
+ - [React Docs](https://reactjs.org/)//facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
